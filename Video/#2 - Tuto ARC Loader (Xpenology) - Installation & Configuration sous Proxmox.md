@@ -7,8 +7,10 @@
 ►WebUI Xpenology : http://192.168.x.xxx:5000
 
 ## Ligne de comande shell
-Import du disque ARC : <br/>
-```qm importdisk 1XX /var/lib/vz/template/iso/arc.img local-lvm```
+**Import du disque ARC :** <br/>
+```
+qm importdisk 1XX /var/lib/vz/template/iso/arc.img local-lvm
+```
 
 ## Liens Amazon
 
