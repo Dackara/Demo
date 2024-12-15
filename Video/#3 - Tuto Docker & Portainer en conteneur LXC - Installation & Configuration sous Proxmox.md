@@ -11,16 +11,22 @@
 ►WebUI Portainer : https://192.168.x.xxx:9443
 
 ## Ligne de comande shell
-►Pour trouver l'IP : <br/>
-```ip a```
+**Pour trouver l'IP :**
+```
+ip a
+```
 
-►Installation de Samba :  <br/>
-```apt install samba```
+**Installation de Samba :**
+```
+apt install samba
+```
 
-►Edition du fichier de configuaration :  <br/>
-```sudo nano /etc/samba/smb.conf```
+**Edition du fichier de configuaration :**
+```
+sudo nano /etc/samba/smb.conf
+```
 
-►En bas du fichier, on ajoute les ligne : 
+**En bas du fichier, on ajoute les ligne :**
 ```
 [*nom_du_partage*]
     comment = Samba on Debian
@@ -32,8 +38,9 @@
 
 *En remplacent les partie entre asterix ```*```.*
 
-►Ensuite : 
-```sudo service smbd restart
+**Ensuite :**
+```
+sudo service smbd restart
 sudo adduser *Dackara* --allow-bad-names
 sudo smbpasswd -a *Dackara*
 pdbedit -w -L
