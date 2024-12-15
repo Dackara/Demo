@@ -5,11 +5,6 @@
 - #1 - Tuto PROXMOX - Installation & Configuration
 - #2 - Tuto ARC Loader (Xpenology) - Installation & Configuration sous Proxmox
 - #3 - Tuto Docker & Portainer en conteneur LXC - Installation & Configuration sous Proxmox
-
-- 1 : [Installation Proxmox sur un serveur DIY](https://docs.google.com/document/d/1Hs1dsZtsQ_wlpc_-SCZX9b93h-qghXZw4aTForaPhYM/edit?pli=1&tab=t.0)
-- 2 : Installation Arc Loader DSM
-- 3 : Installation conteneur LXC Docker + Portainer + Samba
-
 ## À venir :
 - #4 : Tuto rClone - Installation & Configuration sous Proxmox
   - #4.1 : Tuto rClone x Mega - Configuration
