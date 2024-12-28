@@ -10,9 +10,10 @@
   - [#4.2 : Tuto rClone x Uloz.to - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.2%20-%20Tuto%20Mount%20Uloz.to%20Cloud%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
   - [#4.3 : Tuto rClone browser - Installation & Configuration sous Windows](https://github.com/Dackara/Demo/blob/main/Video/%234.3%20-%20Tuto%20rClone%20browser%20-%20Installation%20%26%20Configuration%20sous%20Windows.md)
   - [#4.4 : Tuto rClone x Google Drive - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.4%20-%20Tuto%20Mount%20Google%20Drive%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
+  - #4.5 : Tuto rClone x One Drive - Configuration
 
 ## À venir :
-  - #4.5 : Tuto rClone x One Drive - Configuration
+-
   - #4.6 : Tuto rClone x Dropbox - Configuration
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
@@ -35,7 +36,9 @@
 - #8 : Installation Windows 11 sous Proxmox et activation bureau à distance
 - #9 : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 
+- x : Routeur Solaire Maxi (les bidouilleurs)
 - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
+  - : Ubooquity
 - x : Aegisub : Tuto et réalisation de karaoké 
 - x : Installation de Fusion 360 : c'est gratuit !
 - x : Impression 3D, on fais le tour de Cura
@@ -51,6 +54,7 @@
   - x : Domotiser sa boîte à lettres
   - x : Domotiser un store-ban électrique filaire (avec capteur de distance d’ouverture ?)
 - x : Présentation de la sandbox de windows
+- x : Flocage : presse chauffante et ploter de découpe
 
 - x : Test / Review :
   - Sonde de temperature Sonoff (chambre)
