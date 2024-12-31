@@ -4,7 +4,7 @@
 
 ►[Proxmox](https://proxmox.com) <br/>
 ►[Rufus](https://rufus.ie) <br/>
-►[Helper-Script](https://community-scripts.github.io) <br/>
+►[Helper-Script](https://community-scripts.github.io/ProxmoxVE/) <br/>
 ►WebUI Proxmox : https://192.168.x.xxx:8006
 
 ## Liens Amazon
