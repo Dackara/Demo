@@ -7,8 +7,8 @@
 ## Liens pour la vidéo
 
 ►[Proxmox](https://proxmox.com) <br/>
-►[Helper-Script](https://community-scripts.github.io/) <br/>
-►WebUI Portainer : https://192.168.x.xxx:9443
+►[Helper-Script](https://community-scripts.github.io/ProxmoxVE/) <br/>
+►WebUI Portainer : `https://192.168.x.xxx:9443`
 
 ## Ligne de comande shell
 **Pour trouver l'IP :**
