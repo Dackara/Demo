@@ -4,7 +4,7 @@
 
 ►[Proxmox](https://proxmox.com) <br/>
 ►[ARC Loader](https://github.com/AuxXxilium/arc) <br/>
-►WebUI Xpenology : http://192.168.x.xxx:5000
+►WebUI Xpenology : `http://192.168.x.xxx:5000`
 
 ## Ligne de comande shell
 **Import du disque ARC :** <br/>
