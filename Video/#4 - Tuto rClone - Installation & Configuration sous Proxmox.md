@@ -7,7 +7,7 @@
 ## Liens pour la vidéo
 
 ►[Proxmox](https://proxmox.com) <br/>
-►[Helper-Script](https://community-scripts.github.io/) <br/>
+►[Helper-Script](https://community-scripts.github.io/ProxmoxVE/) <br/>
 ►[rClone](https://rclone.org/) <br/>
 ►WebUI rClone : `https://192.168.x.xxx:5572`
 
