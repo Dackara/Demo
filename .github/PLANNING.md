@@ -12,27 +12,29 @@
   - [#4.4 : Tuto rClone x Google Drive - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.4%20-%20Tuto%20Mount%20Google%20Drive%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
   - [#4.5 : Tuto rClone x One Drive - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.5%20-%20Tuto%20Mount%20One%20Drive%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
   - [#4.6 : Tuto rClone x Dropbox - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.6%20-%20Tuto%20Mount%20Dropbox%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
+- [#5 : Tuto Home Assistant - Installation & Configuration sous Proxmox](https://github.com/Dackara/Demo/blob/main/Video/%235%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Proxmox.md)
+  - [#5.1 : Tuto Home Assistant - Installation & Configuration sur Synology](https://github.com/Dackara/Demo/blob/main/Video/%235.1%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Synology.md)
 
 ## À venir :
--
+- __4__
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
   - #4.9 : Tuto rClone x box - Configuration
-- #5 : Tuto Home Assistant - Installation & Configuration sous Proxmox
-  - 5.1 : Tuto Home Assistant - Installation & Configuration sous Docker
-  - 5.2 : Tuto Home Assistant - Installation & Configuration sur Synology
-  - 5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
+- __5__
+  - #5.2 : Tuto Home Assistant - Installation & Configuration sous Docker
+  - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
+  - #5.4 : Tuto Home Assistant - Installation & Configuration sur Freebox Delta
 - #6 : Tuto ESPHome - Installation & Configuration sous Home Assistant
-  - 6.1 : Tuto ESPHome - Installation & Configuration sous Proxmox
-  - 6.1 : Tuto ESPHome - Installation & Configuration sous Docker
-  - 6.2 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
+  - #6.1 : Tuto ESPHome - Installation & Configuration sous Proxmox
+  - #6.1 : Tuto ESPHome - Installation & Configuration sous Docker
+  - #6.2 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
 - #7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (explications du fonctionnement du Github et du PCB)
-  - 7.1 : Pilotage des radiateur via Fil Pilote
-  - 7.2 : Estimation du courant - Pince ampèremétrique
-  - 7.3 : Weikai - Ports UART additionel Pour ESP
-  - 7.4 : Utilisation d'un Prem AC
-  - 7.5 : Domotisation d'un Télérupteur
-  - 7.x : ...
+  - #7.1 : Pilotage des radiateur via Fil Pilote
+  - #7.2 : Estimation du courant - Pince ampèremétrique
+  - #7.3 : Weikai - Ports UART additionel Pour ESP
+  - #7.4 : Utilisation d'un Prem AC
+  - #7.5 : Domotisation d'un Télérupteur
+  - #7.x : ...
 - #8 : Installation Windows 11 sous Proxmox et activation bureau à distance
 - #9 : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 
