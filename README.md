@@ -15,3 +15,6 @@
   - [#4.6 : Tuto rClone x Dropbox - Configuration](https://github.com/Dackara/Demo/blob/main/Video/%234.6%20-%20Tuto%20Mount%20Dropbox%20dans%20rClone%20-%20Configuration%20sous%20Proxmox.md)
 - [#5 : Tuto Home Assistant - Installation & Configuration sous Proxmox](https://github.com/Dackara/Demo/blob/main/Video/%235%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Proxmox.md)
   - [#5.1 : Tuto Home Assistant - Installation & Configuration sur Synology](https://github.com/Dackara/Demo/blob/main/Video/%235.1%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Synology.md)
+- [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
+  - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
+- [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
