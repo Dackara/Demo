@@ -23,6 +23,7 @@
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
   - #4.9 : Tuto rClone x box - Configuration
+  - #4.10 : Tuto rClone "UNION" - Configuration
 - __#5__
   - #5.2 : Tuto Home Assistant - Installation & Configuration sous Docker
   - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
@@ -37,24 +38,24 @@
   - #7.4 : Utilisation d'un Prem AC
   - #7.5 : Domotisation d'un Télérupteur
   - #7.x : ...
-- #8 : Installation Windows 11 sous Proxmox et activation bureau à distance
+- #8 : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
 - #9 : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 
-- x : Routeur Solaire Maxi (les bidouilleurs)
+- x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
 - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
-  - : Ubooquity
+  - : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
 - x : Aegisub : Tuto et réalisation de karaoké 
 - x : Installation de Fusion 360 : c'est gratuit !
 - x : Impression 3D, on fais le tour de Cura
 - x : OctoPrint : Installation sur un Raspberry et sur Proxmox (Prise en main, passage en français, les addon utilies...)
 - x : WLED (Guirlande de noel ?)
-- x : Installation de Plex sous Proxmox
-  - x.1 : Installation de Plex sur NAS Synology
+- x : Installation de Plex sur NAS Synology
+  - x.1 : Installation de Plex sous Proxmox
   - x.2 : Installation des Addon Plex pour une bibliothèque organisé Anime/Manga
-- x : ESP32 sous ESP Home : 
+- x : ESP32 sous ESPHome : 
   - x : Réparation d'un chauffage dont le module de commande est HS en le rendant connecté / Domotisation.
-  - x : Réalisation Station Météo (ESP32)
-  - x : Réalisation réglette LED sans fil sous ESPHome avec niveau batterie et température (avec un vieu bloc neon du commerce)
+  - x : Réalisation Station Météo
+  - x : Réalisation réglette LED sans fil avec niveau batterie et température (dans un vieu bloc neon du commerce)
   - x : Domotiser sa boîte à lettres
   - x : Domotiser un store-ban électrique filaire (avec capteur de distance d’ouverture ?)
 - x : Présentation de la sandbox de windows
