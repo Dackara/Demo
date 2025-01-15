@@ -31,6 +31,12 @@
 - __#6__
   - #6.2 : Tuto ESPHome - Installation & Configuration sous Docker
   - #6.3 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
+  - x : Réparation d'un chauffage dont le module de commande est HS en le rendant connecté / Domotisation.
+  - x : Réalisation Station Météo
+  - x : Réalisation réglette LED sans fil avec niveau batterie et température (dans un vieu bloc neon du commerce)
+  - x : Domotiser sa boîte à lettres
+  - x : Domotiser un store-ban électrique filaire (avec capteur de distance d’ouverture ?)
+  - x : Domotiser une porte de garage
 - __#7__
   - #7.1 : Pilotage des radiateur via Fil Pilote
   - #7.2 : Estimation du courant - Pince ampèremétrique
@@ -38,9 +44,12 @@
   - #7.4 : Utilisation d'un Prem AC
   - #7.5 : Domotisation d'un Télérupteur
   - #7.x : ...
-- #8 : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
-- #9 : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
-
+- #8 : Réalisation d'un Dashboard Mural a partir d'un PC Portable tactile 17"
+  - 8.1 : Partie Hardware / Modélisation 3D
+  - 8.2 : Partie Software / Programation
+    
+- x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
+- x : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 - x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
 - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
   - : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
@@ -52,16 +61,11 @@
 - x : Installation de Plex sur NAS Synology
   - x.1 : Installation de Plex sous Proxmox
   - x.2 : Installation des Addon Plex pour une bibliothèque organisé Anime/Manga
-- x : ESP32 sous ESPHome : 
-  - x : Réparation d'un chauffage dont le module de commande est HS en le rendant connecté / Domotisation.
-  - x : Réalisation Station Météo
-  - x : Réalisation réglette LED sans fil avec niveau batterie et température (dans un vieu bloc neon du commerce)
-  - x : Domotiser sa boîte à lettres
-  - x : Domotiser un store-ban électrique filaire (avec capteur de distance d’ouverture ?)
+  - x.3 : connexion d'un cloud sous Plex avec rClone
 - x : Présentation de la sandbox de windows
 - x : Flocage : presse chauffante et ploter de découpe
 
-- x : Test / Review :
+- x : Test / Review (éventuellement) :
   - Sonde de temperature Sonoff (chambre)
   - NAS Synology
   - Onduleur EATON
@@ -73,4 +77,4 @@
   - Peugeot Ion
   - Dacia Spring
   - Mon avis sur le micro Action
-  - kits de conversion 8bitdo
+  - Kits de conversion 8bitdo
