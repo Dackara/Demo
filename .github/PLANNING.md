@@ -21,16 +21,20 @@
   - [#7.1 Live {PvBrain 2} Feat Bandit-17 & SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
 
 ## À venir :
-- __#4__
+- __#1__ (Proxmox)
+  - #4.1 : Tuto Conversion / Migration d'une VM VMWare (.vmdk) vers Proxmox 
+- __#4__ (rClone)
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
   - #4.9 : Tuto rClone x box - Configuration
   - #4.10 : Tuto rClone "UNION" - Configuration
-- __#5__
+- __#5__ (Home Assistant)
   - #5.2 : Tuto Home Assistant - Installation & Configuration sous Docker
   - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
   - #5.4 : Tuto Home Assistant - Installation & Configuration sur Freebox Delta
-- __#6__
+  - x : Ajouter l'intégration Youtube pour HA et créer un écran connecté qui affiche l'heure et/ou le nombre d'abonné youtube sous Pixelit.
+  - x : Activer les notifications SMS de free mobile.
+- __#6__ (ESPHome)
   - #6.2 : Tuto ESPHome - Installation & Configuration sous Docker
   - #6.3 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
   - x : Réparation d'un chauffage dont le module de commande est HS en le rendant connecté / Domotisation.
@@ -39,24 +43,27 @@
   - x : Domotiser sa boîte à lettres
   - x : Domotiser un store-ban électrique filaire (avec capteur de distance d’ouverture ?)
   - x : Domotiser une porte de garage
-- __#7__
+  - x : Domotisation d'un Télérupteur
+  - x : Domotisation au Potager {arrosage automatique selon la météo (en lien avec la station météo et les prévisions) + mesure de l’hygrométrie du sol, etc...}
+- __#7__ (PvBrain 2)
   - #7.1 : Pilotage des radiateur via Fil Pilote
   - #7.2 : Estimation du courant - Pince ampèremétrique
   - #7.3 : Weikai - Ports UART additionel Pour ESP
   - #7.4 : Utilisation d'un Prem AC
-  - #7.5 : Domotisation d'un Télérupteur
   - #7.x : ...
 - #8 : Réalisation d'un Dashboard Mural a partir d'un PC Portable tactile 17"
   - 8.1 : Partie Hardware / Modélisation 3D
   - 8.2 : Partie Software / Programation
-    
+
+- #9 : Installation de Fusion 360 (c'est gratuit !)
+
+- #10 : Aegisub : Tuto et réalisation de karaoké
+  
 - x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
 - x : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 - x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
 - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
   - : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
-- x : Aegisub : Tuto et réalisation de karaoké 
-- x : Installation de Fusion 360 : c'est gratuit !
 - x : Impression 3D, on fais le tour de Cura
 - x : OctoPrint : Installation sur un Raspberry et sur Proxmox (Prise en main, passage en français, les addon utilies...)
 - x : WLED (Guirlande de noel ?)
