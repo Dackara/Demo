@@ -22,7 +22,10 @@
 
 ## À venir :
 - __#1__ (Proxmox)
-  - #4.1 : Tuto Conversion / Migration d'une VM VMWare (.vmdk) vers Proxmox 
+  - #4.1 : Tuto Conversion / Migration d'une VM VMWare (.vmdk) vers Proxmox
+  - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
+  - x : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
+  - x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
 - __#4__ (rClone)
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
@@ -58,23 +61,23 @@
 - #9 : Installation de Fusion 360 (c'est gratuit !)
 
 - #10 : Aegisub : Tuto et réalisation de karaoké
-  
-- x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
-- x : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
-- x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
-- x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
-  - : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
-- x : Impression 3D, on fais le tour de Cura
-- x : OctoPrint : Installation sur un Raspberry et sur Proxmox (Prise en main, passage en français, les addon utilies...)
-- x : WLED (Guirlande de noel ?)
-- x : Installation de Plex sur NAS Synology
+
+- #11 : Installation de Plex sur NAS Synology
   - x.1 : Installation de Plex sous Proxmox
   - x.2 : Installation des Addon Plex pour une bibliothèque organisé Anime/Manga
   - x.3 : connexion d'un cloud sous Plex avec rClone
+
+- #12 : Impression 3D, on fais le tour de Cura
+  - OctoPrint : Installation sur un Raspberry et sur Proxmox (Prise en main, passage en français, les addon utilies...)
+  - Réaliser le suport vertical en 3D pour les Addon PVbrain (live ?)
+    
+- x : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
+- x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
+- x : WLED (Guirlande de noel ?)
 - x : Présentation de la sandbox de windows
 - x : Flocage : presse chauffante et ploter de découpe
 
-- x : Test / Review (éventuellement) :
+- #XX : Test / Review (éventuellement) :
   - Sonde de temperature Sonoff (chambre)
   - NAS Synology
   - Onduleur EATON
