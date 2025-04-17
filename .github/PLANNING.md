@@ -76,6 +76,7 @@
 - x : WLED (Guirlande de noel ?)
 - x : Présentation de la sandbox de windows
 - x : Flocage : presse chauffante et ploter de découpe
+- x : Test de "CarMaintenance"
 
 - #XX : Test / Review (éventuellement) :
   - Sonde de temperature Sonoff (chambre)
@@ -90,3 +91,7 @@
   - Dacia Spring
   - Mon avis sur le micro Action
   - Kits de conversion 8bitdo
+
+- LIVE :
+  - x : On apprend le Japonais en Direct !
+  - x : Création de Karaoké
