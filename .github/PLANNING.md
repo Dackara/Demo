@@ -18,7 +18,14 @@
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
-  - [#7.1 Live {PvBrain 2} Feat Bandit-17 & SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
+  - [#◉-1 Live {PvBrain 2} Feat @Bandit-17 & @SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
+
+<br/>
+
+- #HS-1 : Installation de Fusion 360 (et c'est gratuit !) _`{Mardi 22/04/25 à 12h15}`_
+
+- LIVE ◉ :
+  - #◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans _`{Mercredi 23 ou Jeudi 24/04/2025 à partir de 20h30}`_
 
 ## À venir :
 - __#1__ (Proxmox)
@@ -58,8 +65,6 @@
   - 8.1 : Partie Hardware / Modélisation 3D
   - 8.2 : Partie Software / Programation
 
-- #9 : Installation de Fusion 360 (c'est gratuit !)
-
 - #10 : Aegisub : Tuto et réalisation de karaoké
 
 - #11 : Installation de Plex sur NAS Synology
@@ -94,4 +99,3 @@
 
 - LIVE :
   - x : On apprend le Japonais en Direct !
-  - x : Création de Karaoké
