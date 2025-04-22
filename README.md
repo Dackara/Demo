@@ -19,4 +19,12 @@
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
-  - [#7.1 Live {PvBrain 2} Feat Bandit-17 & SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
+  - [#◉-1 Live {PvBrain 2} Feat @Bandit-17 & @SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
+
+<br/>
+
+### Hors-Série :
+- [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
+
+### Live ◉ :
+- [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0) _`{Mercredi 23 ou Jeudi 24/04/2025 à partir de 20h30}`_
