@@ -114,6 +114,108 @@ Il y a donc plein de règles qui régissent la synchronisation des sous-titres, 
 
 Cela dit, c’est bien beau de savoir quand commencer et quand terminer un sous-titre, mais bon, on met quoi dedans ? C’est quand même le plus important, non ? Eh bien nous y arrivons. Et c’est probablement la partie qui fera le plus débat.
 
+## <p align="center">
+  <img src="https://github.com/user-attachments/assets/b81b7aaf-99f9-4f09-961a-073cbf57dfac" alt="La traduction et l'adaptation"/>
+</p>
+Continuons un peu avec les considérations techniques. Comme dit plus haut, un sous-titre ne doit pas gâcher l’action de ce qui se passe à l’écran, ce qui contraint le sous-titre spatialement. On évitera donc dans un sous-titre de dépasser 40 caractères par lignes (CPL), __espaces et ponctuations incluses__ ! Et ce, sur 2 lignes maximum. Des normes plus drastiques descendent même jusqu’à 32.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acbe1118-81a3-4b86-8842-4f20c28c9526" alt="zone"/>
+</p>
+<p align="center">
+  <i>Dans le milieu, ce genre de sous-titre est appelé « piste d’atterrissage »<br/>(Traduction non-contractuelle)</i>
+</p>
+
+De plus, afin que le spectateur ait le temps de lire le sous-titre, il faut que ce dernier ne soit pas trop long relativement à sa durée d’apparition à l’écran. C’est donc cette fois-ci une contrainte spatio-temporelle qui s’applique. Pour cela, il existe plusieurs indicateurs, mais le plus couramment utilisé est le __CPS__, Caractères Par Seconde. On estime qu’un bon sous-titre ne dépasse pas 18 CPS. Ceci étant, ce n’est pas forcément un bon indicateur, car nous ne lisons pas les phrases lettre par lettre, mais plutôt mot par mot. De la même manière, il y a certains mots dont nous avons l’habitude que nous lisons plus vite que d’autres.
+
+Le CPS reste donc un indicateur relatif. Des phrases courtes seront lues très rapidement, et peuvent ainsi avoir un CPS élevé (jusqu’à 22-24), là où les phrases longues demandant plus de concentration devront avoir un CPS le plus bas possible (maximum 14-15).
+
+Oubliez donc les notes de traduction en haut de l’écran qu’on a pas le temps de lire et les traductions à rallonge pour retranscrire chacun des mots et sous-entendus des paroles d’origine. Et pour les petits malins qui oseraient sortir l’argument du « Oui, euh, mais on peut mettre sur pause, donc c’est pas grave lol mdr », bah non ! Une vidéo est faite pour être regardée d’une traite. Mettre pause toutes les 30 secondes détruit l’expérience de visionnage. Et puis, vous pensez qu’on peut mettre pause au cinéma ? Non, donc argument invalide.
+
+Ces contraintes spatiales et temporelles existant, il va donc falloir faire des compromis sur la traduction, au grand malheur des puristes, nous amenant maintenant sur le deuxième grand volet du sous-titrage : la traduction et l’adaptation.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7163e62e-0acd-4e48-bc98-c17b0458bf51" alt="zone"/>
+</p>
+<p align="center">
+  <i>Exemple de note, à bannir à tout prix !</i>
+</p>
+
+Car s’il y a bien une chose à savoir sur la traduction, c’est que c’est un exercice difficile, et ce n’est pas pour rien qu’il faut plusieurs années d’études pour devenir professionnel. Elle demande d’une part de bien connaître la langue d’origine que l’on souhaite traduire, mais aussi d’autre part, comme on vient de le voir, elle demande de maîtriser encore mieux, voire d’exceller dans la langue d’arrivée de la traduction !
+
+<p align="center">
+  <b>S’il est aisé de comprendre, il est difficile de traduire.</b>
+</p>
+
+Dans un même laps de temps, il est possible de caser beaucoup plus d’informations à l’oral qu’à l’écrit. Essayez un jour, par curiosité, de prendre un film, mettez-le en français, sous-titré français, et comparez. Vous verrez qu’il y a des informations manquantes, ou que la tournure n’est pas la même. Et c’est là que le bât blesse, et que le drame arrive pour certains. Par moment, il n’est pas possible de retranscrire avec exactitude chacun des mots prononcés par un personnage, et la traduction doit donc faire des coupes dans le propos. Il convient alors de garder seulement le nécessaire, afin de retranscrire l’essence et le cœur du propos d’origine avant tout.
+
+La première chose à garder en mémoire lorsque l’on traduit un animé (ou une série, un film), qui est ce qui nous intéresse ici, c’est que les paroles à traduire sont des paroles orales. Quand bien même un sous-titre est lu, ce n’est pas de la littérature, mais des paroles, et cela doit se ressentir à la lecture. Il faut donc toujours se poser la question quand on traduit : « Est-ce que la phrase pourrait être spontanément prononcée à l’oral ? ».
+
+Bien évidemment, on veillera derrière à adapter le discours et le vocabulaire à la façon de parler du personnage. Un enfant ne parlera pas comme une vieille personne, qui ne parlera pas comme un politicien, mais on traduira de façon à avoir une phrase qui sonne « orale ». On aura par exemple tendance à transformer les « nous » en « on », à ne pas pratiquer l’inversion du verbe et du sujet dans les questions, ou alors à omettre les « ne » dans une négation (ce qui est en plus un gain de place dans le sous-titre, on fait d’une pierre deux coups !).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/463c7edf-ce24-48c1-b892-246b9402f86d" alt="zone"/>
+</p>
+<p align="center">
+  <i>À gauche, Jessie, la bourgeoise de 60 ans | À droite, Jessie, la jeune méchante de 18 ans</i>
+</p>
+
+De plus, une phrase n’est jamais seule et isolée. Elle est toujours accompagnée d’un contexte. Il peut y avoir une phrase avant, et une phrase après. Donc, en plus de vérifier que la phrase est cohérente avec elle-même, le traducteur doit aussi faire en sorte qu’elle soit cohérente avec les phrases qui l’entourent !
+
+Prenons pour exemple l’expression « itadakimasu ». Cette expression, prononcée par les japonais avant de manger, se traduit littéralement par « je me sers » ou « je me permets », et est donc une formule qu’on dit à soi-même. Très souvent, elle est traduite par un « bon appétit », et cela peut se comprendre quand il y a un grand nombre de personnes autour d’une table qui la prononce. Mais que faire lorsque le personnage est seul à manger ? Cela paraît étrange de souhaiter « bon appétit » quand personne d’autre ne mange. Imaginez la situation. Diriez-vous « bon appétit » en mangeant le chocolat de Saint-Valentin offert par l’être aimé ? Ou en mangeant une bonne gaufre achetée à la fête foraine ? Non, bien sûr. On préférera traduire dans ces cas par un « merci » ou un « à l’attaque ».
+
+Car le japonais, comme toute autre langue, possède son lot d’expressions et de mots culturels qui lui sont propres. Pour un néophyte, cela pourrait donc dérouter de voir des mots japonais ou des expressions traduites littéralement. Il est donc important, dans la traduction, de rendre au maximum les choses compréhensibles pour une majorité.
+
+Un exemple typique concerne la nourriture japonaise, qui regorge de pléthore de plats aux noms uniques. On pourra, dans une oeuvre à public « niche », voire dont c’est le propos, laisser des mots typiques comme bentō, onigiri, takoyaki, etc.. Mais pour un public plus large, il sera nécessaire de les traduire en panier-repas, boulettes de riz, ou boulettes de poulpe. Il faut donc faire attention dans sa traduction à prendre en compte le public que notre traduction va toucher.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12701ad1-e153-4671-ab57-32ffa6f53e98" alt="zone"/>
+</p>
+<p align="center">
+  <i>De délicieux beignets fourrés à la confiture !</i>
+</p>
+
+Ce deux exemples nous montrent que le traducteur doit faire un effort d’adaptation en fonction du contexte et de localisation quand cela est nécessaire. Ce travail découle en réalité d’une règle plus globale :
+
+<p align="center">
+  <b>Il faut à tout prix éviter la traduction littérale.</b>
+</p>
+
+Chaque langue a une grammaire qui lui est propre, il convient donc de reformuler les choses pour les adapter à la grammaire française. Par exemple, en japonais, le verbe se trouve à la fin de la phrase. De la même manière, le japonais a tendance à inverser certaines propositions, qu’il faut alors remettre dans le bon sens quand on traduit.
+
+Ainsi, dans un récent épisode, Pierre est présenté par Sacha comme étant « tabi nakama no Takeshi ». « tabi nakama » signifie « compagnon de voyage », et « Takeshi » est le nom japonais de Pierre. On voit donc qu’en japonais le nom de la personne vient après l’explication. À l’inverse, en français, nous avons plutôt tendance à donner le nom de la personne d’abord, avant de donner des précisions sur elle. On traduira donc cette présentation par « Pierre, un ami avec qui j’ai voyagé », en notant que « compagnon de voyage » a été reformulé afin de donner une phrase plus orale.
+
+À travers ces différents exemples, nous n’avons bien sûr qu’à peine effleuré le sujet de l’adaptation. L’article étant assez long comme ça, je ne m’étendrai pas davantage, mais j’espère vous avoir sensibilisés à l’intérêt et la nécessité de ce travail. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d78e55b-3490-42fe-8ff3-490a202a7c66" alt="zone"/>
+</p>
+<p align="center">
+  <i>Saurez-vous trouver les 2 erreurs sur cette image ? <br/> (Indice : « means plan » veut dire « veut dire plan »)</i>
+</p>
+
+De manière générale, avec le travail professionnel de localisation et d’adaptation, se pose aussi la question de la traduction des noms des personnages, des lieux, des attaques ou des sorts, etc… Par exemple, les noms des Pokémon sont des jeux de mots en japonais. Donc, à moins de parler la langue, difficile de comprendre la blague qui se cache derrière. Avoir des noms français nous permet donc de mieux apprécier le nommage des créatures. Et pour une œuvre longue, il peut même devenir utile de créer une bible qui regroupe tous les termes spécifiques à l’œuvre en question afin de garder une cohérence dans les termes et la traduction tout au long de l’histoire. Cette question de la localisation ou non des noms propres et termes spécifiques dépend de nombreux paramètres, et c’est pour cela que selon l’œuvre, le support, le public visé, le traducteur, la maison d’édition, etc., vous constaterez différentes pratiques éditoriales.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc8286e0-354b-4716-a5a0-b7bf7f3625f4" alt="zone"/>
+</p>
+<p align="center">
+  <i>Canarticho, le canard qui tient un poireau <br/> Exemple de localisation réfléchie et réussie</i>
+</p>
+
+Pour finir cette partie, revenons un peu en arrière. Nous avons vu plus tôt qu’un sous-titre pouvait tenir sur deux lignes. Se pose alors une question : où mettre la césure, le retour à la ligne ? Pour cela, il faut analyser en détail la phrase.
+
+Dans une phrase, il y a des groupes de mots qui sont liés entre eux. Par exemple, un nom et son adjectif associé peuvent difficilement être séparés. De la même manière, on ne sépare pas la négation de son verbe. Ou encore, on ne sépare pas une conjonction de la proposition qui la suit (oui, ça fait beaucoup de termes techniques, je vous avais bien dit qu’il fallait être bon dans la langue d’arrivée). Et des exemples comme ça, il y en a à la pelle. Il va donc falloir repérer ces groupes de mots, parfois même reformuler encore une fois pour trouver une coupure adéquate. Si on ne le fait pas, on perturbe le cerveau pendant la lecture, qui s’attend à lire quelque chose qu’il ne trouve pas, et qui doit faire un effort supplémentaire lors de son retour à la ligne pour lire la deuxième. Notez que cette règle s’applique aussi lorsqu’une phrase est coupée entre deux sous-titres qui se suivent.
+
+Ces mécanismes se font sur des temps très courts, et sont parfois inconscients. Autant cela n’est pas grave lorsqu’on lit un livre, mais à l’échelle d’un sous-titre qui n’apparaît que peu de temps, cela peut se révéler être une gêne. Chaque dixième de seconde est précieux !
+
+Bien, si vous avez compris, que diriez-vous de jouer à un jeu ? Voici 6 phrases qui ont été mises sur deux lignes. Saurez-vous repérer lesquelles sont mal coupées, et pourquoi ?
+
+| Sacha et ses amis continuent leur <br/> route pour participer à la Ligue. | Cette météorite <br/> est un sujet d’étude important ! |
+|---|---|
+| Il y a plein d’arbres à <br/> Baies dans ces montagnes. | Il ne faut <br/> pas se reposer sur les autres |
+| N’ignorez pas les gens <br/> quand ils se présentent ! | C’est un service <br/> spécial que nous vous offrons. |
+
+Finalement, s’il n’y avait qu’une chose à retenir de tout ça, c’est que les phrases des sous-titres doivent être __les plus fluides et naturelles possible__. Juste en respectant cette maxime, vous êtes garantis d’améliorer la qualité de votre sous-titrage.
 
 ## A suivre ...
