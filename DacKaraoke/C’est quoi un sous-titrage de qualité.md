@@ -1,5 +1,5 @@
 # C’est quoi « un sous-titrage de qualité » ?
-[*Réalisé par @Tinta le 2 février 2023*](http://pokemonfansub.free.fr/?p=7083)
+[*Réalisé par @Tinta le 2 février 2023 pour la Pokémon-Fansub*](http://pokemonfansub.free.fr/?p=7083)
 
 Bonjour à tous !
 
@@ -7,11 +7,12 @@ Vous le savez, sous peu, la série PM2019 se termine, signant la fin d’une èr
 
 À travers cet article, je vais donc essayer de vous transmettre ma passion pour cet exercice qu’est le sous-titrage, si souvent pris à la légère, et grâce à lui vous donner quelques clés de compréhension pour mieux comprendre ce qui se cache derrière ces phrases qui apparaissent et disparaissent comme par magie en bas de votre écran. Et peut-être réussirons-nous enfin à répondre à l’éternelle question qui, par le passé (et encore aujourd’hui), provoqua des guerres entre les fansubs :
 <br/>
-<br/>
+
 <p align="center">
   <b>C’est quoi « un sous-titrage de qualité » ?</b>
 </p>
-Indice : Google Translate n’est pas la bonne réponse.
+
+Indice : [Google Translate](https://translate.google.com/?sl=ja&tl=fr&op=translate) n’est pas la bonne réponse.
 <br/>
 
 ## <p align="center">
@@ -211,11 +212,156 @@ Ces mécanismes se font sur des temps très courts, et sont parfois inconscients
 
 Bien, si vous avez compris, que diriez-vous de jouer à un jeu ? Voici 6 phrases qui ont été mises sur deux lignes. Saurez-vous repérer lesquelles sont mal coupées, et pourquoi ?
 
+<div align="center">
+  
 | Sacha et ses amis continuent leur <br/> route pour participer à la Ligue. | Cette météorite <br/> est un sujet d’étude important ! |
-|---|---|
+|:---------:|:---------:|
 | Il y a plein d’arbres à <br/> Baies dans ces montagnes. | Il ne faut <br/> pas se reposer sur les autres |
 | N’ignorez pas les gens <br/> quand ils se présentent ! | C’est un service <br/> spécial que nous vous offrons. |
+  
+</div>
+
+<details>
+<summary><b>Voir la réponse</b></summary>
+<div align="center">
+ 
+| Sacha et ses amis continuent ![leur](https://img.shields.io/badge/_-leur-red) <br/> ![route](https://img.shields.io/badge/_-route-red) pour participer à la Ligue. | ![Cette météorite](https://img.shields.io/badge/_-Cette_météorite-darkgreen) <br/> ![est un sujet d’étude important !](https://img.shields.io/badge/_-est_un_sujet_d’étude_important_!-darkgreen) |
+|:---------:|:---------:|
+| Il y a plein d’![arbres_à](https://img.shields.io/badge/_-arbres_à-red) <br/> ![Baies](https://img.shields.io/badge/_-Baies-red) dans ces montagnes. | Il ![ne faut](https://img.shields.io/badge/_-ne_faut-red) <br/> ![pas](https://img.shields.io/badge/_-pas-red) se reposer sur les autres |
+| ![N’ignorez pas les gens](https://img.shields.io/badge/_-N’ignorez_pas_les_gens-darkgreen) <br/> ![quand ils se présentent !](https://img.shields.io/badge/_-quand_ils_se_présentent_!-darkgreen) | C’est un ![service](https://img.shields.io/badge/_-service-red) <br/> ![spécial](https://img.shields.io/badge/_-spécial-red) que nous vous offrons. |
+<p align="center">
+  
+En ![rouge](https://img.shields.io/badge/_-rouge-red) les groupes de mot insécables, et donc les mauvaises césures.
+</p>
+</div>
+</details>
 
 Finalement, s’il n’y avait qu’une chose à retenir de tout ça, c’est que les phrases des sous-titres doivent être __les plus fluides et naturelles possible__. Juste en respectant cette maxime, vous êtes garantis d’améliorer la qualité de votre sous-titrage.
 
-## A suivre ...
+## <p align="center">
+  <img src="https://github.com/user-attachments/assets/6cf1d503-e2fb-40b1-92a3-4185f6bb23d1" alt="Mise en forme"/>
+</p>
+
+Pour terminer, parlons un peu de la mise en forme des sous-titres. Nous avons vu comment bien synchroniser un sous-titre, comment le remplir avec une traduction et une adaptation convenable, il ne nous reste maintenant que la partie plus esthétique.
+
+Je redis ici l’évidence, un sous-titre est lu, et donc doit pouvoir être lu. Il faut donc dans un premier temps choisir une police lisible pour son sous-titre. Ensuite, afin que le sous-titre se démarque bien de la vidéo derrière, il faut lui donner un bord plus ou moins épais, et une couleur claire qui permet une meilleure lecture. Pour cette raison, tous les sous-titres professionnels que vous verrez seront en blanc ou jaune, avec un bord noir, qui est la coloration qui permet les meilleures lisibilité et démarcation.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf3a4c70-1cdf-4433-9dfe-8b199cc53ae2" alt="zone"/>
+</p>
+<p align="center">
+  <i>Sans bord, la police se confond avec l’image derrière, et une police fantaisiste ou une couleur trop sombre rendent la lecture bien difficile…</i>
+</p>
+
+> [!NOTE]
+> *Dans notre cas, grâce à la liberté que nous donne le statut d’amateurs, nous proposons des sous-titres couleurs. Cela fait suite à de nombreuses demandes, notamment de personnes sourdes, qui peuvent ainsi mieux comprendre quel personnage est en train de parler. En effet, le sous-titrage sourd et malentendant possède d’autres normes, et nous serions bien incapables de fournir ce genre de traduction. C’est un choix qui a ses avantages et ses inconvénients, c’est pourquoi nous avons décidé de ne pas le faire sur la traduction du cycle Advanced Génération, par exemple. Néanmoins, vous retrouverez toujours ce principe du bord foncé et d’une police de couleur claire pour permettre une lecture confortable.*
+
+Une autre chose que vous avez pu remarquer dans les sous-titres est l’utilisation d’italiques. Ces derniers sont utilisés dans les cas suivants :
+
+- Narration et pensées internes
+- Action se déroulant dans le passé (flashback)
+- Voix modifiée d’un personnage non présent dans une scène (téléphone, télévision, radio, etc…)
+- Chansons
+
+Toujours dans l’optique d’un confort de lecture maximal, ils permettent au spectateur de rapidement comprendre un contexte et donc faciliter l’immersion, ainsi que de rendre les sous-titres un peu plus vivants.
+
+Parfois, on a d’affichée à l’écran une écriture en langue étrangère qui est importante pour l’intrigue. Il peut alors être nécessaire de la traduire pour que le spectateur comprenne la situation. Dans ce cas, puisque ce n’est pas une traduction de paroles, le sous-titre sera alors mis en MAJUSCULES et en italique, parfois en haut de l’écran, pour bien le distinguer du reste. Et sur un animé, les éditions peuvent être plus poussées et adopter le style de l’écriture, voire même remplacer l’écriture ! Mais bien sûr, cette liberté n’est permise qu’au fansub, bien que maintenant des éditeurs professionnels proposent parfois des éditions un peu plus fantaisistes que de simples traductions.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0394c108-8667-4bb2-b99d-f4738a6ef020" alt="zone"/>
+</p>
+<p align="center">
+  <i>Exemple d’édition qui traduit et remplace le japonais</i>
+</p>
+
+Et enfin, parmi les libertés que le fansub offre, on pourra noter la possibilité de faire un karaoké, ce qui me permet d’évoquer une règle de mise en forme concernant la traduction de chansons : on ne met alors pas de points à la fin des phrases, et chaque sous-titre commence par une majuscule, même si l’on est en plein milieu d’une phrase.
+
+## <p align="center">
+  <img src="https://github.com/user-attachments/assets/d7661af6-e56f-4f14-8d57-40b78c7a721e" alt="Conclusion"/>
+</p>
+
+Pour conclure cet article, je vous propose de mettre en application les différents points que nous avons abordés dans un exemple concret. Partons d’une phrase japonaise, et passons-la à la moulinette de la traduction, synchronisation, adaptation, localisation et mise en forme.
+
+> *« メトロソムリエにして駅弁ソムリエの僕としてはこの地方でしか食べられない駅弁でも食べたい »* <br/>
+> *« metoro somurie ni shite ekiben somurie no boku to shite wa kono chihou de shika taberarenai ekiben de mo tabetai »*
+
+Cette phrase, prononcée par notre cher Rachid dans un récent épisode, dure 6,65 secondes. Il faut donc la couper. Cela tombe bien, il fait une pause après « shite wa » ! Séparons donc la phrase en deux.
+
+> *« metoro somurie ni shite ekiben somurie no boku to shite wa »* – 3,26 secondes* <br/>
+> *« kono chihou de shika taberarenai ekiben de mo tabetai » – 3,05 secondes*
+
+Nous avons maintenant des sous-titres de durée convenable. À présent, traduisons littéralement.
+
+> *« métro sommelier en tant que ekiben sommelier je suis en tant que »* <br/>
+> *« cette région dans seulement ne peut être mangé ekiben je veux manger »*
+
+Plutôt incompréhensible pour le moment, je vous l’accorde. Allez, transformons ça en phrase française !
+
+> *« Moi qui suis sommelier métro et qui suis sommelier ekiben, »* <br/>
+> *« je veux manger un ekiben qu’on ne peut manger que dans cette région. »*
+
+Voilà donc une phrase un peu plus compréhensible. Vous remarquerez que, pour le moment, je n’ai pas traduit le mot « ekiben ». En réalité, ce mot très spécifique désigne des paniers-repas que l’on peut acheter dans les gares (il vient de la contraction de « eki » (gare) et « bentō » (panier-repas)). Afin donc de le rendre compréhensible, faisons une localisation, et traduisons cela par « panier-repas de gare ».
+
+Ensuite, on peut se demander ce que veut dire « sommelier métro » et « sommelier ekiben ». Finalement, c’est un sommelier qui a pour passion les métro et les ekiben. Nous allons donc reformuler la phrase en essayant de garder cette idée.
+
+Et enfin, dans la deuxième phrase, vous noterez la répétition du verbe « manger ». Par souci esthétique, changeons donc le premier « manger » en « goûter ». Car oui, s’il y a une chose que l’on aime pas en français, c’est la répétition.
+
+Finalement, après reformulation, nous sommes maintenant à :
+
+> *« Moi qui suis sommelier fan de métro et qui suis sommelier fan de panier-repas de gare, »* <br/>
+> *« je veux goûter un panier-repas de gare qu’on ne peut manger que dans cette région. »*
+
+On s’améliore, mais arrive un autre problème. Les phrases sont beaucoup trop longues ! Les deux phrases ont un CPS de 26. Il va falloir les raccourcir.
+
+Dans la première phrase, il y a répétition de « qui suis sommelier fan de ». Dans ce cas, supprimons simplement la deuxième occurrence.
+
+Dans la deuxième phrase, la fin de la phrase nous donne comme information que ce sont des panier-repas spécifiques à la région. On peut donc tout simplement remplacer la proposition par l’adjectif « régional ».
+
+Nous avons maintenant :
+
+> *« Moi qui suis sommelier fan de métro et de panier-repas de gare, »* <br/>
+> *« je veux goûter un panier-repas de gare régional. »*
+
+La première phrase a maintenant un CPS de 19, et la deuxième un CPS de 15.
+
+Prenons maintenant le contexte. Rachid dit cette phrase car il a faim. Ainsi, sa phrase sonne plutôt comme une plainte. Son « je veux » se traduirait alors plutôt par un « j’aurais aimé ».
+
+Vous remarquerez aussi que « panier-repas de gare » est répété deux fois. N’y a-t-il pas moyen de simplifier ? L’expression est composée d’une part de « panier-repas » et de « gare ». Dans la deuxième phrase, puisque l’on parle de goûter, c’est l’information « panier-repas » qui est la plus importante. Dans la première, c’est plutôt le mot « gare » qui est important, en résonance avec « métro ».
+
+En prenant en compte ces modifications, nous en sommes maintenant à :
+
+> *« Moi qui suis sommelier fan de métro et de gare, »* <br/>
+> *« j’aurais aimé goûter un panier-repas régional. »*
+
+Et voilà, nous avons notre traduction. Reste une dernière chose à faire : mettre le sous-titre sur deux ligne, donc faire une césure !
+
+Dans la première phrase, le corps principal de la phrase est « Moi qui suis sommelier », et le groupe « fan de métro et de gare » vient en complément. La césure peut donc se faire après « sommelier ».
+
+Dans la deuxième phrase, le corps principal de la phrase est « j’aurais aimé goûter », et le groupe « un panier-repas régional » vient en complément. La césure peut donc se faire après « goûter ».
+
+> *« En tant que sommelier* <br/>
+> *fan de métro et de gare, »* <br/>
+>
+> *« j’aurais aimé goûter* <br/>
+> *un des paniers-repas régionaux… »*
+
+Vous noterez une petite reformulation subtile pour coller à la traduction présente dans l’épisode, mais voilà, nous avons notre sous-titre bien présenté ! Félicitations !
+
+Maintenant, répétez cette opération environ 300 fois pour un épisode de 25 minutes ! (En réalité moins, certaines phrases sont très faciles à synchroniser, et des phrases courtes, faciles à traduire, ne nécessitent pas de telles analyses et réflexion. Mais sachez qu’il est possible de bloquer plusieurs dizaines de minutes sur une seule phrase !)
+
+Et pour ceux qui voudraient comparer avec tout ce qui a été dit jusqu’à maintenant, vous pouvez [consulter ICI les normes de sous-titrage](http://download.pro.arte.tv/archives/upload/1232.pdf) demandées par la chaîne Arte (pages 9 à 12) !
+
+## <p align="center">
+  <img src="https://github.com/user-attachments/assets/ff745ca0-7282-49ca-b646-3d196578376d" alt="Mot de la fin"/>
+</p>
+
+Si vous avez lu cet article jusqu’au bout, je vous en remercie. Merci à Trizek pour sa relecture et ses conseils avisés sur la rédaction, et merci à Dackara pour les titres de partie. J’ai essayé d’être clair et exhaustif, mais s’il vous reste des incompréhensions, ou des questions sur des choses non abordées dans l’article, n’hésitez pas à les poser en commentaire, ou à venir directement sur notre [Discord](https://discord.gg/qcPjqcz) !
+
+Et maintenant, la prochaine fois que vous regarderez des sous-titres, essayez donc de faire attention à tous les petits détails que nous avons abordés dans l’article. Peut-être que vous verrez le sous-titrage différemment, et qui sait, cela pourrait faire naître en vous une vocation future !
+
+Merci à tous de votre soutien et votre fidélité.
+
+<p align="right">
+  Tinta
+</p>
+
