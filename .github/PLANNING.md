@@ -25,7 +25,7 @@
 - [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
 
 - LIVE ◉ :
-  - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0) _`{Mercredi 23 ou Jeudi 24/04/2025 à partir de 20h30}`_
+  - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
 
 ## À venir :
 - __#1__ (Proxmox)
