@@ -1,6 +1,9 @@
 # The [Dackara-Demo Youtube Channel](https://www.youtube.com/@DackaraDemo) Repositories.
 ![A Gundam plays](https://github.com/user-attachments/assets/aa72fcc5-6f89-4134-8a33-9daa11de5709)
-[![s-abonner](https://github.com/user-attachments/assets/4b3960ac-f356-4652-9658-93b31a82d460)](https://www.youtube.com/@DackaraDemo)
+
+<p align="center"><a href="https://www.youtube.com/@DackaraDemo">
+  <img src="https://github.com/user-attachments/assets/fc61423e-8aa4-47c3-996b-f53c2a6bde5d" alt="S'abonner"/>
+</a></p>
 
 ## Vidéo déjà sorties :
 - [#1 - Tuto PROXMOX - Installation & Configuration](https://github.com/Dackara/Demo/blob/main/Video/%231%20-%20Tuto%20PROXMOX%20-%20Installation%20%26%20Configuration.md)
