@@ -82,6 +82,7 @@
 - x : Présentation de la sandbox de windows
 - x : Flocage : presse chauffante et ploter de découpe
 - x : Test de "CarMaintenance"
+- x : 10 ans de restauration sur une 205 CTI ! (et c'est pas fini !!!)
 
 - #XX : Test / Review (éventuellement) :
   - Sonde de temperature Sonoff (chambre)
