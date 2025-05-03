@@ -22,14 +22,17 @@
 
 <br/>
 
-- [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
+-Hors-Serie :
+  - [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
 
 - LIVE ◉ :
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
+  - Review Gundam GQuuuuuuX avec @gundamologue
 
 ## À venir :
 - __#1__ (Proxmox)
   - #4.1 : Tuto Conversion / Migration d'une VM VMWare (.vmdk) vers Proxmox
+  - #4.2 : Tuto Gnix RTMP pour diffusion stream simultanée YouTube x Twitch et plus si affinités 
   - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
   - x : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
   - x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
