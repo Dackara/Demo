@@ -1,43 +1,17 @@
 #!/bin/bash
 
-# Mise à jour et installation des dépendances nécessaires
-echo "Mise à jour et installation de git, nginx..."
-apt update && apt install -y git nginx
+# Téléchargement du script d'installation depuis GitHub
+echo "Téléchargement du script d'installation depuis GitHub..."
+curl -fsSL https://raw.githubusercontent.com/Dackara/Demo/main/Script/install-rtmpmonitor.sh -o /tmp/install-rtmpmonitor.sh
 
-# Clonage du dépôt RTMPMonitor dans le répertoire web
-echo "Clonage du dépôt RTMPMonitor..."
-git clone https://github.com/phoboslab/rtmpmonitor.git /var/www/html/rtmpmonitor
+# Rendre le script exécutable
+chmod +x /tmp/install-rtmpmonitor.sh
 
-# Sauvegarde de nginx.conf avant modification
-echo "Sauvegarde de nginx.conf..."
-cp /etc/nginx/nginx.conf /etc/nginx/nginx.conf.backup
+# Exécution du script
+echo "Exécution du script d'installation..."
+/tmp/install-rtmpmonitor.sh
 
-# Ajout de la configuration nécessaire pour RTMPMonitor
-echo "Modification de nginx.conf..."
-cat <<EOL >> /etc/nginx/nginx.conf
+# Suppression du script temporaire
+rm /tmp/install-rtmpmonitor.sh
 
-# Configuration pour RTMPMonitor
-application live {
-    live on;
-    stat;
-}
-
-http {
-    # Statistique de RTMP
-    location /stat {
-        rtmp_stat all;
-        rtmp_stat_stylesheet stat.xsl;
-    }
-
-    location /stat.xsl {
-        root /var/www/html/rtmpmonitor;
-    }
-}
-EOL
-
-# Redémarrage de Nginx pour appliquer les changements
-echo "Redémarrage de Nginx..."
-systemctl restart nginx
-
-# Finalisation
-echo "RTMPMonitor installé et Nginx configuré ! Accédez à http://<votre_ip>/rtmpmonitor"
+echo "Installation terminée avec succès !"
