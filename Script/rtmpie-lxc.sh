@@ -13,7 +13,7 @@ DISK_DEFAULT="8G"
 MEMORY_DEFAULT=1024
 CPU_DEFAULT=2
 PASSWORD_DEFAULT="admin"
-REPO_URL="https://raw.githubusercontent.com/tonutilisateur/proxmox-rtmpie-lxc/main"
+REPO_URL="https://raw.githubusercontent.com/Dackara/Demo/main/Script/"
 
 # ───── SAISIE UTILISATEUR ─────
 read -p "🆔 Numéro du conteneur (CTID) [$CTID_DEFAULT] : " CTID
@@ -61,11 +61,44 @@ echo -e "\n🚀 Conteneur #$CTID lancé. Installation de RTMPie..."
 
 # ───── INSTALLATION DANS LE LXC ─────
 pct exec $CTID -- apt update
-pct exec $CTID -- apt install -y curl git
+pct exec $CTID -- apt install -y curl git nginx libnginx-mod-rtmp ffmpeg
 
-pct exec $CTID -- curl -fsSL $REPO_URL/install-inside-lxc.sh -o /root/install-inside-lxc.sh
-pct exec $CTID -- chmod +x /root/install-inside-lxc.sh
-pct exec $CTID -- /root/install-inside-lxc.sh
+# Configuration Nginx de base avec RTMP
+pct exec $CTID -- bash -c 'cat > /etc/nginx/nginx.conf <<EOF
+worker_processes auto;
+events {}
+rtmp {
+    server {
+        listen 1935;
+        chunk_size 4096;
 
-echo -e "\n✅ Installation terminée !"
-echo -e "🌐 Accède à l'interface via : http://[IP_du_LXC]:8080 (admin / admin)"
+        application live {
+            live on;
+            record off;
+        }
+    }
+}
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+
+    server {
+        listen 8080;
+        location / {
+            root /var/www/html;
+            index index.html index.htm;
+        }
+    }
+}
+EOF'
+
+# Interface Web minimale
+pct exec $CTID -- bash -c 'mkdir -p /var/www/html && echo "<!DOCTYPE html><html lang=\"fr\"><head><meta charset=\"UTF-8\"><title>RTMPie</title></head><body><h1>🎥 Serveur RTMP prêt !</h1><p>Utilisez rtmp://<i>votre-ip</i>:1935/live comme URL de stream.</p></body></html>" > /var/www/html/index.html'
+
+# Redémarrage Nginx
+pct exec $CTID -- systemctl enable nginx
+pct exec $CTID -- systemctl restart nginx
+
+echo -e "\n✅ RTMPie installé avec succès !"
+echo -e "🌐 Interface Web : http://[IP_LXC]:8080"
+echo -e "📡 RTMP Input : rtmp://[IP_LXC]:1935/live"
