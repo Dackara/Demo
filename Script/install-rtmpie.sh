@@ -17,8 +17,23 @@ python3 -m venv venv
 source venv/bin/activate
 pip install flask flask-socketio
 
-echo "🔧 Installation de RTMPie comme service systemd..."
-cp systemd/rtmpie.service /etc/systemd/system/
+echo "🔧 Création du service systemd pour RTMPie..."
+cat > /etc/systemd/system/rtmpie.service <<EOF
+[Unit]
+Description=RTMPie Web Interface
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/rtmpie
+ExecStart=/opt/rtmpie/venv/bin/python3 app.py
+Restart=always
+User=root
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
+EOF
+
 systemctl daemon-reexec
 systemctl daemon-reload
 systemctl enable rtmpie
@@ -83,6 +98,6 @@ systemctl restart nginx
 echo ""
 echo "✅ Installation terminée avec succès !"
 echo "--------------------------------------------"
-echo "🌐 Interface Web       : http://[IP]:8080"
-echo "📊 Statistiques RTMP   : http://[IP]:8080/stat"
-echo "📡 Flux RTMP (entrée)  : rtmp://[IP]:1935/live"
+echo "🌐 Interface Web RTMPie : http://[IP]:5000"
+echo "📊 Statistiques RTMP    : http://[IP]:8080/stat"
+echo "📡 Flux RTMP (entrée)   : rtmp://[IP]:1935/live"
