@@ -1,29 +1,33 @@
 #!/bin/bash
 
-# Met à jour le système
+set -e
+
+echo "🔄 Mise à jour du système..."
 apt update && apt upgrade -y
 
-# Installe les dépendances système
+echo "📦 Installation des dépendances..."
 apt install -y curl git nginx libnginx-mod-rtmp ffmpeg python3-pip python3-venv
 
-# Installe RTMPie
+echo "📁 Clonage du dépôt RTMPie..."
 cd /opt
-git clone https://github.com/rtmpie/rtmpie.git
+git clone https://github.com/ngrie/rtmpie.git
 cd rtmpie
+
+echo "🐍 Configuration de l'environnement virtuel Python..."
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-# Installe RTMPie comme service
+echo "🔧 Installation de RTMPie comme service systemd..."
 cp systemd/rtmpie.service /etc/systemd/system/
 systemctl daemon-reexec
 systemctl daemon-reload
 systemctl enable rtmpie
 systemctl start rtmpie
 
-# Configure nginx avec RTMP et stat page
+echo "📝 Configuration de Nginx avec RTMP + stat page..."
 cat > /etc/nginx/nginx.conf <<EOF
-worker_processes  auto;
+worker_processes auto;
 events { worker_connections 1024; }
 
 rtmp {
@@ -36,7 +40,6 @@ rtmp {
             record off;
         }
 
-        # Statistiques NGINX RTMP
         application statapp {
             live on;
         }
@@ -67,17 +70,18 @@ http {
 }
 EOF
 
-# Télécharge la feuille de style stat.xsl
+echo "🌐 Téléchargement de la feuille de style stat.xsl..."
 curl -o /usr/share/nginx/html/stat.xsl https://raw.githubusercontent.com/arut/nginx-rtmp-module/master/stat.xsl
 
-# Crée une page web de test
+echo "🌍 Création d'une page web d'accueil simple..."
 echo "<h1>RTMPie est installé</h1>" > /var/www/html/index.html
 
-# Redémarre nginx
+echo "🚀 Redémarrage de Nginx..."
 systemctl enable nginx
 systemctl restart nginx
 
-echo "✅ Installation terminée !"
-echo "🌐 Page web : http://[IP]:8080"
+echo "✅ Installation terminée avec succès !"
+echo "--------------------------------------------"
+echo "🌐 Interface Web : http://[IP]:8080"
 echo "📊 Statistiques RTMP : http://[IP]:8080/stat"
 echo "📡 RTMP URL : rtmp://[IP]:1935/live"
