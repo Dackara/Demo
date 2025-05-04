@@ -4,8 +4,9 @@ set -e
 echo "🔄 Mise à jour du système..."
 apt update && apt upgrade -y
 
-echo "📦 Installation des dépendances..."
-apt install -y curl git nginx libnginx-mod-rtmp ffmpeg python3-pip python3-venv
+echo "📦 Installation des dépendances nécessaires pour la compilation..."
+apt install -y curl git libnginx-mod-rtmp ffmpeg python3-pip python3-venv \
+    build-essential libpcre3 libpcre3-dev libssl-dev zlib1g-dev
 
 echo "📁 Clonage du dépôt RTMPie..."
 cd /opt
@@ -16,6 +17,19 @@ echo "🐍 Configuration de l'environnement virtuel Python..."
 python3 -m venv venv
 source venv/bin/activate
 pip install flask flask-socketio
+
+echo "🔧 Installation de Nginx avec le module RTMP..."
+cd /usr/local/src
+# Télécharger Nginx
+wget http://nginx.org/download/nginx-1.24.0.tar.gz
+tar -zxvf nginx-1.24.0.tar.gz
+cd nginx-1.24.0
+# Télécharger et ajouter le module RTMP
+git clone https://github.com/arut/nginx-rtmp-module.git
+# Compiler Nginx avec le module RTMP
+./configure --add-module=./nginx-rtmp-module
+make
+make install
 
 echo "🔧 Création du service systemd pour RTMPie..."
 cat > /etc/systemd/system/rtmpie.service <<EOF
@@ -39,8 +53,8 @@ systemctl daemon-reload
 systemctl enable rtmpie
 systemctl start rtmpie
 
-echo "📝 Configuration de Nginx avec RTMP + stat page..."
-cat > /etc/nginx/nginx.conf <<EOF
+echo "📝 Configuration de Nginx avec RTMP + page stat..."
+cat > /usr/local/nginx/conf/nginx.conf <<EOF
 worker_processes auto;
 events { worker_connections 1024; }
 
@@ -91,13 +105,15 @@ echo "🌍 Création d'une page web d'accueil simple..."
 mkdir -p /var/www/html
 echo "<h1>✅ RTMPie est installé avec succès</h1>" > /var/www/html/index.html
 
-echo "🚀 Redémarrage de Nginx..."
-systemctl enable nginx
+echo "🚀 Démarrage de Nginx..."
+/usr/local/nginx/sbin/nginx
+
+echo "🚀 Redémarrage des services..."
 systemctl restart nginx
 
 echo ""
 echo "✅ Installation terminée avec succès !"
 echo "--------------------------------------------"
-echo "🌐 Interface Web RTMPie : http://[IP]:5000"
-echo "📊 Statistiques RTMP    : http://[IP]:8080/stat"
-echo "📡 Flux RTMP (entrée)   : rtmp://[IP]:1935/live"
+echo "🌐 Interface Web RTMPie : http://[IP_DE_TON_LXC]:5000"
+echo "📊 Statistiques RTMP    : http://[IP_DE_TON_LXC]:8080/stat"
+echo "📡 Flux RTMP (entrée)   : rtmp://[IP_DE_TON_LXC]:1935/live"
