@@ -26,8 +26,12 @@
 
 <br/>
 
-### Hors-Série :
-- [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
+- Hors-Serie :
+  - [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
 
-### Live ◉ :
-- [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
+- LIVE ◉ :
+  - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
+
+- Stream ► :
+  - [Review E03 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=0mmXfDwgeMY)
+  - [Review E04 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
