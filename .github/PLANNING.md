@@ -22,7 +22,7 @@
 
 <br/>
 
--Hors-Serie :
+- Hors-Serie :
   - [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
 
 - LIVE ◉ :
