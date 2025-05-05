@@ -27,8 +27,11 @@
 
 - LIVE ◉ :
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
-  - Review Gundam GQuuuuuuX avec @gundamologue
 
+- Stream ► :
+  - [Review E03 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=0mmXfDwgeMY)
+  - [Review E04 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
+    
 ## À venir :
 - __#1__ (Proxmox)
   - #4.1 : Tuto Conversion / Migration d'une VM VMWare (.vmdk) vers Proxmox
