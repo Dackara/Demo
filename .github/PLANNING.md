@@ -49,6 +49,7 @@
   - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
   - #5.4 : Tuto Home Assistant - Installation & Configuration sur Freebox Delta
   - x : Ajouter l'intégration Youtube pour HA et créer un écran connecté qui affiche l'heure et/ou le nombre d'abonné youtube sous Pixelit.
+  - x : Ajouter l'intégration Proxmox pour HA
   - x : Activer les notifications SMS de free mobile.
 - __#6__ (ESPHome)
   - #6.2 : Tuto ESPHome - Installation & Configuration sous Docker
