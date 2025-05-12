@@ -35,3 +35,4 @@
 - Stream ► :
   - [Review E03 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=0mmXfDwgeMY)
   - [Review E04 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
+  - [Review E05 Gundam GQuuuuuuX Feat @gundamologue](https://youtube.com/live/L_KJ8yJEYhM)
