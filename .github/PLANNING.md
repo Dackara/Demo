@@ -39,6 +39,7 @@
   - #4.2 : Tuto Ngnix RTMP pour diffusion stream simultanée YouTube x Twitch et plus si affinités 
   - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
   - x : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
+  - x : Installation et configuration de Tautulli
   - x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
   - ▷▷ x : Skip le message "Risque de sécurité" du navigateur
 - __#4__ (rClone)
@@ -56,6 +57,10 @@
   - ▷▷ x : Ajouter l'intégration Proxmox pour HA
   - ▷▷ x : Ajouter l'intégration LG WebOS TV pour HA
   - ▷▷ x : Ajouter l'intégration Système Monitor pour HA
+  - x : Ajouter l'intégration Mammotion pour HA
+  - x : Ajouter l'intégration Plex pour HA (+Recently Add)
+  - x : Ajouter l'intégration Tautulli pour HA
+  - x : Ajouter l'intégration Tuya pour HA
   - x : Activer les notifications SMS de free mobile.
   - ▷▷ x : Effectuer un mise à jour sur HA
 - __#6__ (ESPHome)
