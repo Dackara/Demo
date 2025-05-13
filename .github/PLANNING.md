@@ -40,6 +40,7 @@
   - x : Installation et utilisation de Komga pour gérer DBteque / Mangateque
   - x : Installation et utilisation de Ubooquity pour gérer DBteque / Mangateque
   - x : Installation Windows 11 sous Proxmox (et activation bureau à distance ?)
+  - ▷▷ x : Skip le message "Risque de sécurité" du navigateur
 - __#4__ (rClone)
   - #4.7 : Tuto rClone x pCloud - Configuration
   - #4.8 : Tuto rClone x Shadow Drive - Configuration
@@ -49,9 +50,14 @@
   - #5.2 : Tuto Home Assistant - Installation & Configuration sous Docker
   - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
   - #5.4 : Tuto Home Assistant - Installation & Configuration sur Freebox Delta
-  - x : Ajouter l'intégration Youtube pour HA et créer un écran connecté qui affiche l'heure et/ou le nombre d'abonné youtube sous Pixelit.
-  - x : Ajouter l'intégration Proxmox pour HA
+  - ▷▷ x : Ajouter l'intégration Youtube pour HA
+  - ▷▷ x : Ajouter l'intégration Twitch pour HA
+  - ▷▷ x : Ajouter l'intégration Xbox pour HA
+  - ▷▷ x : Ajouter l'intégration Proxmox pour HA
+  - ▷▷ x : Ajouter l'intégration LG WebOS TV pour HA
+  - ▷▷ x : Ajouter l'intégration Système Monitor pour HA
   - x : Activer les notifications SMS de free mobile.
+  - ▷▷ x : Effectuer un mise à jour sur HA
 - __#6__ (ESPHome)
   - #6.2 : Tuto ESPHome - Installation & Configuration sous Docker
   - #6.3 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
@@ -75,15 +81,17 @@
 
 - #10 : Aegisub : Tuto et réalisation de karaoké
 
-- #11 : Installation de Plex sur NAS Synology
+- ▷▷ #11 : Installation de Plex sur NAS Synology
   - x.1 : Installation de Plex sous Proxmox
+  - ▷▷ x : Mise à jour de Plex sur NAS Synology
   - x.2 : Installation des Addon Plex pour une bibliothèque organisé Anime/Manga
   - x.3 : connexion d'un cloud sous Plex avec rClone
 
 - #12 : Impression 3D, on fais le tour de Cura
   - OctoPrint : Installation sur un Raspberry et sur Proxmox (Prise en main, passage en français, les addon utilies...)
   - Réaliser le suport vertical en 3D pour les Addon PVbrain (live ?)
-    
+
+- x : Créer un écran connecté qui affiche l'heure et/ou le nombre d'abonné YouTube / Twitch / etc...  sous Pixelit.
 - x : ESPSomfyRTS - Programmation & Conception - Configuration de volet roulant et portail bâtant (Boitier 3D ?)
 - x : Routeur Solaire Offgris "Maxi" (les bidouilleurs)
 - x : WLED (Guirlande de noel ?)
