@@ -19,6 +19,8 @@
 - [#5 : Tuto Home Assistant - Installation & Configuration sous Proxmox](https://github.com/Dackara/Demo/blob/main/Video/%235%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Proxmox.md)
   - [#5.1 : Tuto Home Assistant - Installation & Configuration sur Synology](https://github.com/Dackara/Demo/blob/main/Video/%235.1%20-%20Tuto%20Home%20Assistant%20-%20Installation%20%26%20Configuration%20sous%20Synology.md)
   - [#5.2 : Tuto HACS {Home Assistant Community Store} 2025](https://youtu.be/IGsWxooA7Ts)
+  - [#5.3 : Ajouter l'intégration LG WebOS TV pour HA](https://www.youtube.com/watch?v=NoUqJuz8mNY)
+  - [#5.4 : Ajouter l'intégration Xbox pour HA](https://www.youtube.com/watch?v=-kWB0cbgUhc)
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
@@ -33,6 +35,9 @@
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
 
 - Stream ► :
-  - [Review E03 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=0mmXfDwgeMY)
-  - [Review E04 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
-  - [Review E05 Gundam GQuuuuuuX Feat @gundamologue](https://youtube.com/live/L_KJ8yJEYhM)
+  - [OMEGA PSYCOMMU : ACTIVÉ ! Review de l'épisode 03 de GQuuuuuuX Feat ‪@gundamologue‬](https://youtube.com/live/7tRCCWNYzhE)
+  - [Elle veut détruire le GUNDAM rouge ! On parle de l'épisode 04 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
+  - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05 de GQuuuuuuX Feat  @gundamologue ​](https://youtube.com/live/L_KJ8yJEYhM)
+  - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=yo6TBuPwaJo)
+  - Review E07 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream Samedi 24 Mai à 21h45*
+
