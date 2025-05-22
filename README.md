@@ -39,5 +39,5 @@
   - [Elle veut détruire le GUNDAM rouge ! On parle de l'épisode 04 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
   - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05 de GQuuuuuuX Feat  @gundamologue ​](https://youtube.com/live/L_KJ8yJEYhM)
   - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=yo6TBuPwaJo)
-  - Review E07 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream Samedi 24 Mai à 21h45*
+  - Review E07 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream Samedi 24 Mai à 21h45`*
 
