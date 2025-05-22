@@ -31,10 +31,10 @@
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
 
 - Stream ► :
-  - [Review E03 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=0mmXfDwgeMY)
-  - [Review E04 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
-  - [Review E05 Gundam GQuuuuuuX Feat @gundamologue](https://youtube.com/live/L_KJ8yJEYhM)
-  - [Review E06 Gundam GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=yo6TBuPwaJo)
+  - [OMEGA PSYCOMMU : ACTIVÉ ! Review de l'épisode 03 de GQuuuuuuX Feat ‪@gundamologue‬](https://youtube.com/live/7tRCCWNYzhE)
+  - [Elle veut détruire le GUNDAM rouge ! On parle de l'épisode 04 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
+  - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05 de GQuuuuuuX Feat  @gundamologue ​](https://youtube.com/live/L_KJ8yJEYhM)
+  - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=yo6TBuPwaJo)
   - Review E07 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream Samedi 24 Mai à 21h45*
     
 ## À venir :
