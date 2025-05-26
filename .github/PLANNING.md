@@ -17,6 +17,8 @@
   - [#5.2 : Tuto HACS {Home Assistant Community Store} 2025](https://youtu.be/IGsWxooA7Ts)
   - [#5.3 : Ajouter l'intégration LG WebOS TV pour HA](https://www.youtube.com/watch?v=NoUqJuz8mNY)
   - [#5.4 : Ajouter l'intégration Xbox pour HA](https://www.youtube.com/watch?v=-kWB0cbgUhc)
+  - #5.5 : J'intègre mon NAS SYNOLOGY sous Home Assistant ! *Programmé pour le 27 Mai à 12h15*
+  - #5.6 : Je MONITOR le SYSTEME de mon Home Assistant ! *Programmé pour le 3 Juin à 12h15*
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
@@ -31,11 +33,13 @@
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
 
 - Stream ► :
-  - [OMEGA PSYCOMMU : ACTIVÉ ! Review de l'épisode 03 de GQuuuuuuX Feat ‪@gundamologue‬](https://youtube.com/live/7tRCCWNYzhE)
-  - [Elle veut détruire le GUNDAM rouge ! On parle de l'épisode 04 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=BMcdLVCtW1o)
-  - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05 de GQuuuuuuX Feat  @gundamologue ​](https://youtube.com/live/L_KJ8yJEYhM)
-  - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06 de GQuuuuuuX Feat @gundamologue](https://www.youtube.com/watch?v=yo6TBuPwaJo)
-  - Review E07 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream Samedi 24 Mai à 21h45*
+  - **Gundam GQuuuuuuX Feat ‪@gundamologue**
+    - [OMEGA PSYCOMMU : ACTIVÉ ! Review de l'épisode 03‬](https://youtube.com/live/7tRCCWNYzhE)
+    - [Elle veut détruire le GUNDAM rouge ! On parle de l'épisode 04](https://youtube.com/live/I5lGjjEgLHo)
+    - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05](https://youtube.com/live/L_KJ8yJEYhM)
+    - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06](https://youtube.com/live/TtAWjBIRA_A)
+    - [Une ZEKNOVA !?! Machu se REBELLE !!! Review de l'épisode 07](https://youtube.com/live/wtRqeNBsX8Y)
+    - Review E08 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream -exceptionnelement- ce Mercredi 28 Mai à 21h45*
     
 ## À venir :
 - __#1__ (Proxmox)
@@ -58,7 +62,6 @@
   - ▷▷ x : Ajouter l'intégration Youtube pour HA
   - ▷▷ x : Ajouter l'intégration Twitch pour HA
   - ▷▷ x : Ajouter l'intégration Proxmox pour HA
-  - ▷▷ x : Ajouter l'intégration Système Monitor pour HA
   - x : Ajouter l'intégration Mammotion pour HA
   - x : Ajouter l'intégration Plex pour HA (+Recently Add)
   - x : Ajouter l'intégration Tautulli pour HA
