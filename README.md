@@ -47,6 +47,6 @@
     - Review E09 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 7 Juin à 21h45`*
     - Review E10 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 14 Juin à 21h45`*
     - Review E11 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 21 Juin à 21h45`*
-    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue `*Diffusion en Stream le Vendredi 28 Juin à 21h45`*
+    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 28 Juin à 21h45`*
     - "Special Stream Gundam GQuuuuuuX Invite" ??? *`Possible diffusion en Stream le Vendredi 5 Juillet à 21h45`*
 
