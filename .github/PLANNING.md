@@ -17,8 +17,8 @@
   - [#5.2 : Tuto HACS {Home Assistant Community Store} 2025](https://youtu.be/IGsWxooA7Ts)
   - [#5.3 : Ajouter l'intégration LG WebOS TV pour HA](https://www.youtube.com/watch?v=NoUqJuz8mNY)
   - [#5.4 : Ajouter l'intégration Xbox pour HA](https://www.youtube.com/watch?v=-kWB0cbgUhc)
-  - #5.5 : J'intègre mon NAS SYNOLOGY sous Home Assistant ! *Programmé pour le 27 Mai à 12h15*
-  - #5.6 : Je MONITOR le SYSTEME de mon Home Assistant ! *Programmé pour le 3 Juin à 12h15*
+  - [#5.5 : J'intègre mon NAS SYNOLOGY sous Home Assistant !](https://www.youtube.com/watch?v=bz7ShhS1NZA)
+  - [#5.6 : Je MONITOR le SYSTEME de mon Home Assistant !](https://www.youtube.com/watch?v=8Gi9cTq-2wM)
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
@@ -40,6 +40,11 @@
     - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06](https://youtube.com/live/TtAWjBIRA_A)
     - [Une ZEKNOVA !?! Machu se REBELLE !!! Review de l'épisode 07](https://youtube.com/live/wtRqeNBsX8Y)
     - Review E08 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream -exceptionnelement- ce Mercredi 28 Mai à 21h45*
+    - Review E09 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Vendredi 7 Juin à 21h45*
+    - Review E10 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Vendredi 14 Juin à 21h45*
+    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Vendredi 21 Juin à 21h45*
+    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Vendredi 28 Juin à 21h45*
+    - "Special Stream Gundam GQuuuuuuX Invite" ??? *Possible diffusion en Stream le Vendredi 5 Juillet à 21h45*
     
 ## À venir :
 - __#1__ (Proxmox)
