@@ -44,9 +44,9 @@
     - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06](https://youtube.com/live/TtAWjBIRA_A)
     - [Une ZEKNOVA !?! Machu se REBELLE !!! Review de l'épisode 07](https://youtube.com/live/wtRqeNBsX8Y)
     - Review E08 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream -exceptionnelement- ce Mercredi 28 Mai à 21h45`*
-    - Review E09 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 7 Juin à 21h45`*
-    - Review E10 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 14 Juin à 21h45`*
-    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 21 Juin à 21h45`*
-    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 28 Juin à 21h45`*
-    - "Special Stream Gundam GQuuuuuuX Invite" ??? *`Possible diffusion en Stream le Vendredi 5 Juillet à 21h45`*
+    - Review E09 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 7 Juin à 21h45`*
+    - Review E10 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 14 Juin à 21h45`*
+    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 21 Juin à 21h45`*
+    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 28 Juin à 21h45`*
+    - "Special Stream Gundam GQuuuuuuX Invite" ??? *`Possible diffusion en Stream entre le 1 et le 12 Juillet à 21h45`*
 
