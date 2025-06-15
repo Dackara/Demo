@@ -19,6 +19,7 @@
   - [#5.4 : Ajouter l'intégration Xbox pour HA](https://www.youtube.com/watch?v=-kWB0cbgUhc)
   - [#5.5 : J'intègre mon NAS SYNOLOGY sous Home Assistant !](https://www.youtube.com/watch?v=bz7ShhS1NZA)
   - [#5.6 : Je MONITOR le SYSTEME de mon Home Assistant !](https://www.youtube.com/watch?v=8Gi9cTq-2wM)
+  - #5.7 : Ajouter l'intégration Youtube pour HA *`Programé pour le Mardi 17 Juin à 12h15`*
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
@@ -31,6 +32,7 @@
 
 - LIVE ◉ :
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
+  - [Un Live SOLAIRE ! Feat ⁨@cristof48, @⁨lebrulant, @e2nomy, @Bandit17, @Sleeper85 et @gundamologue](https://youtube.com/live/v8ktxZlP-CE) *`Diffusion en Stream le Samedi 20 Juin à 21h45`*
 
 - Stream ► :
   - **Gundam GQuuuuuuX Feat ‪@gundamologue**
@@ -39,12 +41,12 @@
     - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05](https://youtube.com/live/L_KJ8yJEYhM)
     - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06](https://youtube.com/live/TtAWjBIRA_A)
     - [Une ZEKNOVA !?! Machu se REBELLE !!! Review de l'épisode 07](https://youtube.com/live/wtRqeNBsX8Y)
-    - Review E08 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream -exceptionnelement- ce Mercredi 28 Mai à 21h45*
-    - Review E09 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Samedi 7 Juin à 21h45*
-    - Review E10 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Samedi 14 Juin à 21h45*
-    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Samedi 21 Juin à 21h45*
-    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *Diffusion en Stream le Samedi 28 Juin à 21h45*
-    - "Special Stream Gundam GQuuuuuuX Invite" ??? *Possible diffusion en Stream entre le 1 et le 12 Juillet à 21h45*
+    - Review E08 Gundam GQuuuuuuX Feat @gundamologue
+    - Review E09 Gundam GQuuuuuuX Feat @gundamologue
+    - [Mais qu'est ce qui se passe ??? Review de l'épisode 10](https://youtube.com/live/xmHNZfN4tTw)
+    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 21 Juin à 21h45`*
+    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 27 Juin à 21h45`*
+    - "Special Stream Gundam GQuuuuuuX Invite" ??? *`Possible diffusion en Stream entre le 1 et le 12 Juillet à 21h45`*
     
 ## À venir :
 - __#1__ (Proxmox)
@@ -64,7 +66,6 @@
   - #5.2 : Tuto Home Assistant - Installation & Configuration sous Docker
   - #5.3 : Tuto Home Assistant - Installation & Configuration sur Raspberry
   - #5.4 : Tuto Home Assistant - Installation & Configuration sur Freebox Delta
-  - ▷▷ x : Ajouter l'intégration Youtube pour HA
   - ▷▷ x : Ajouter l'intégration Twitch pour HA
   - ▷▷ x : Ajouter l'intégration Proxmox pour HA
   - x : Ajouter l'intégration Mammotion pour HA
@@ -132,3 +133,8 @@
 
 - LIVE :
   - x : On apprend le Japonais en Direct !
+
+- Hors Série :
+  - ▷▷ Installation de "Strap Lock" sur Guitare Classique et Electrique
+  - ▷▷ Réparation de "Pate de Fixation de Phare" Automobile (soudure plastique)
+  - ▷▷ "Réparation" d'un balais d'essuie glace (remplacement du lecheur de vitre)
