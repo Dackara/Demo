@@ -8,6 +8,7 @@ Un "Dashboard murale", ou "home pannel", un écran de contrôle tactile permetta
   - Encastré dans la cloison, très légèrement en saillie (laiser apparaitre le contour pour un ruban de LED)
 - Faire tourner le PC sous Proxmox
   - Faire tourner une VM (Windows ou Linux ?) avec un Pathrough vidéo pour afficher le dashboard Home Assistant sur la VM choisi
+  - Voir aussi pour la question de l'écran tactile (commencer test par dual boot ?)
   - Profiter de Proxmox pour créer un cluster sur le serveur principal et utiliser le stockage disponible sous cette instance pour Plex ou autre.
 - Récuperer le flux vidéo de la webcam et l'intégrer dans Surveillance Station (Synology)
 - Utiliser capteur de mouvement et/ou de présence humaine pour passer en mode veille quand aucune activité détecté (ex: la nuit)
