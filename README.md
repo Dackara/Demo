@@ -1,7 +1,7 @@
 # The [Dackara-Demo Youtube Channel](https://www.youtube.com/@DackaraDemo) Repositories.
 ![A Gundam plays](https://github.com/user-attachments/assets/aa72fcc5-6f89-4134-8a33-9daa11de5709)
 
-<p align="center"><a href="https://www.youtube.com/@DackaraDemo">
+<p align="center"><a href="https://www.youtube.com/@DackaraDemo/?sub_confirmation=1">
   <img src="https://github.com/user-attachments/assets/fc61423e-8aa4-47c3-996b-f53c2a6bde5d" alt="S'abonner"/>
 </a></p>
 
