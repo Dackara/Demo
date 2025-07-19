@@ -3,12 +3,12 @@ Un "Dashboard murale", ou "home pannel", un écran de contrôle tactile permetta
 
 ## L'objectif :
 - Utiliser un PC portable de tactile de 17" comme base
-  - Asus X751L acheté d'occasion (~100€) avec 1To HDD
+  - Asus X751L acheté d'occasion (~100€) avec 1To HDD, 4Go RAM, Processeur i3
 - L'installer dans le salon/séjour (coté cuisine, proche de la porte d'entrée)
-  - Encastré dans la cloison, très légèrement en saillie (laiser apparaitre le contour pour le ruban de LED)
+  - Encastré dans la cloison, très légèrement en saillie (laiser apparaitre le contour pour un ruban de LED)
 - Faire tourner le PC sous Proxmox
-- Faire tourner une VM (Windows ou Linux ?) avec un Pathrough vidéo pour afficher le dashboard Home Assistant sur la VM choisi
-- Profiter de Proxmox pour créer un cluster sur le serveur principal et utiliser le stockage disponible sous cette instance pour Plex ou autre.
+  - Faire tourner une VM (Windows ou Linux ?) avec un Pathrough vidéo pour afficher le dashboard Home Assistant sur la VM choisi
+  - Profiter de Proxmox pour créer un cluster sur le serveur principal et utiliser le stockage disponible sous cette instance pour Plex ou autre.
 - Récuperer le flux vidéo de la webcam et l'intégrer dans Surveillance Station (Synology)
 - Utiliser capteur de mouvement et/ou de présence humaine pour passer en mode veille quand aucune activité détecté (ex: la nuit)
   - Optionnelement convertir en cadre photo multimédiat si personne n'est suffisement proche ou via un "switch"
