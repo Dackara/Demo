@@ -19,20 +19,23 @@
   - [#5.4 : Ajouter l'intégration Xbox pour HA](https://www.youtube.com/watch?v=-kWB0cbgUhc)
   - [#5.5 : J'intègre mon NAS SYNOLOGY sous Home Assistant !](https://www.youtube.com/watch?v=bz7ShhS1NZA)
   - [#5.6 : Je MONITOR le SYSTEME de mon Home Assistant !](https://www.youtube.com/watch?v=8Gi9cTq-2wM)
-  - #5.7 : Ajouter l'intégration Youtube pour HA *`Programé pour le Mardi 17 Juin à 12h15`*
+  - [#5.7 : Ajouter l'intégration Youtube pour HA](https://www.youtube.com/watch?v=EARiELjc0G0)
 - [#6 : Tuto ESPHome - Installation & Configuration sous Proxmox](https://youtu.be/50YTn9k1r-o)
   - [#6.1 : Tuto ESPHome - Installation & Configuration sous Home Assistant](https://youtu.be/nZum6s-rQzY)
 - [#7 : PvBrain 2 - Présentaion du Projet de gestion Solaire (et explications du fonctionnement du Github, du PCB, etc...)](https://youtu.be/0FxQcrgmYuU)
-  - [#◉-1 Live {PvBrain 2} Feat @Bandit-17 & @SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
-
+  - [#◉-1 : Live {PvBrain 2} Feat @Bandit-17 & @SebyDocKy (remonté)](https://youtube.com/live/NITEFeAOpwg)
+  - [#◉-4 : YamBMS - Présentation du Projet ! {ESPHome} - 1 seul pour les contrôler TOUS !! Feat Sleeper85](https://www.youtube.com/watch?v=kc0tziyQunQ)
 <br/>
 
 - Hors-Serie :
   - [#HS-1 : Installation de Fusion 360 (et c'est gratuit !)](https://youtu.be/IdHVv1cFigA)
 
+- Tuto Mecano :
+  - [Comment réparer des fixations de phares par soudure plastique ?! Le Tuto Mécano !](https://www.youtube.com/watch?v=aPSLf23O2PA)
+
 - LIVE ◉ :
   - [#◉-2 : Réaliser des Karaokés stylisé sous Aegisub ! Feat @Chaomans](https://youtube.com/live/q5ZAvl7yxN0)
-  - [Un Live SOLAIRE ! Feat ⁨@cristof48, @⁨lebrulant, @e2nomy, @Bandit17, @Sleeper85 et @gundamologue](https://youtube.com/live/v8ktxZlP-CE) *`Diffusion en Stream le Samedi 20 Juin à 21h45`*
+  - [#◉-3 : Tout ce que vous vous demandez sur le solaire (et que personne n’explique clairement) Feat ⁨@cristof48, @⁨lebrulant, @e2nomy, @Bandit17, @Sleeper85 et @gundamologue](https://youtube.com/live/v8ktxZlP-CE)
 
 - Stream ► :
   - **Gundam GQuuuuuuX Feat ‪@gundamologue**
@@ -41,12 +44,12 @@
     - [ÇA VA PARTIR EN CACAHUÈTES !?!  Review de l'épisode 05](https://youtube.com/live/L_KJ8yJEYhM)
     - [Elle l'a TRAHI et c'est pas fini !!! On parle de l'épisode 06](https://youtube.com/live/TtAWjBIRA_A)
     - [Une ZEKNOVA !?! Machu se REBELLE !!! Review de l'épisode 07](https://youtube.com/live/wtRqeNBsX8Y)
-    - Review E08 Gundam GQuuuuuuX Feat @gundamologue
-    - Review E09 Gundam GQuuuuuuX Feat @gundamologue
+    - [Les liens du passé se relâchent ! En avant GUNDAM ! Review de l'ep 8](https://www.youtube.com/watch?v=xh41SarmFcs)
+    - [Machu découvre la vérité sur la Rose de Saron  ! Review de l'ep 9](https://www.youtube.com/watch?v=fG6V3XIKzB0)
     - [Mais qu'est ce qui se passe ??? Review de l'épisode 10](https://youtube.com/live/xmHNZfN4tTw)
-    - Review E11 Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Samedi 21 Juin à 21h45`*
-    - Review E12 et Dernier épisode avant Fin/Pause? Gundam GQuuuuuuX Feat @gundamologue *`Diffusion en Stream le Vendredi 27 Juin à 21h45`*
-    - "Special Stream Gundam GQuuuuuuX Invite" ??? *`Possible diffusion en Stream entre le 1 et le 12 Juillet à 21h45`*
+    - [Je ne suis pas d’ici?! Disparais, Gundam !!! Review de l'épisode 11](https://www.youtube.com/watch?v=DPlrhCi5ijw)
+    - [Épisode FINAL !!! Top ou Flop ?!? Review de l'épisode 12](https://www.youtube.com/watch?v=IcEFfKGh9og)
+    - [GQuuuuuuX Review Spécial Colab Event !](https://www.youtube.com/watch?v=OTXbEtT7a0s)
     
 ## À venir :
 - __#1__ (Proxmox)
@@ -73,7 +76,7 @@
   - x : Ajouter l'intégration Tautulli pour HA
   - x : Ajouter l'intégration Tuya pour HA
   - x : Activer les notifications SMS de free mobile.
-  - ▷▷ x : Effectuer un mise à jour sur HA
+  - ▷▷ x : Effectuer une mise à jour sur HA
 - __#6__ (ESPHome)
   - #6.2 : Tuto ESPHome - Installation & Configuration sous Docker
   - #6.3 : Tuto ESPHome Web - Flash d'un ESP pour la première fois
@@ -116,7 +119,7 @@
 - x : Test de "CarMaintenance"
 - x : 10 ans de restauration sur une 205 CTI ! (et c'est pas fini !!!)
 
-- #XX : Test / Review (éventuellement) :
+- #XX : Test / Review / Retex (éventuellement) :
   - Sonde de temperature Sonoff (chambre)
   - NAS Synology
   - Onduleur EATON
@@ -129,12 +132,11 @@
   - Dacia Spring
   - Mon avis sur le micro Action
   - Kits de conversion 8bitdo
-  - Retex de l’installation photovoltaïque "OFF GRID" (déconnecté réseau)
+  - Retex de mon installation photovoltaïque "OFF GRID" (déconnecté réseau)
 
 - LIVE :
   - x : On apprend le Japonais en Direct !
 
 - Hors Série :
   - ▷▷ Installation de "Strap Lock" sur Guitare Classique et Electrique
-  - ▷▷ Réparation de "Pate de Fixation de Phare" Automobile (soudure plastique)
   - ▷▷ "Réparation" d'un balais d'essuie glace (remplacement du lecheur de vitre)
