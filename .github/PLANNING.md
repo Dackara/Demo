@@ -75,6 +75,7 @@
   - x : Ajouter l'intégration Plex pour HA (+Recently Add)
   - x : Ajouter l'intégration Tautulli pour HA
   - x : Ajouter l'intégration Tuya pour HA
+  - x : Ajouter l'intégration Local-Tuya pour HA
   - x : Activer les notifications SMS de free mobile.
   - ▷▷ x : Effectuer une mise à jour sur HA
 - __#6__ (ESPHome)
@@ -119,10 +120,16 @@
 - x : Test de "CarMaintenance"
 - x : 10 ans de restauration sur une 205 CTI ! (et c'est pas fini !!!)
 
-- #XX : Test / Review / Retex (éventuellement) :
+- #XX : Test & Review :
   - Sonde de temperature Sonoff (chambre)
-  - NAS Synology
-  - Onduleur EATON
+  - Micro Action (Nortec)
+  - Micro Fifine AmpliGame AM6
+  - Kits de conversion 8bitdo
+  - Webcam Logitech C920s Pro
+
+- #XX : Retex :
+  - NAS Synology DS220+
+  - Onduleur EATON 1600 Pro et 650 Eco
   - Mammotion Luba 2
   - 4x4 24v Jeep Willis
   - Routeur Asus ROG GT-BE98
@@ -130,9 +137,7 @@
   - Ecouteur Asus Cetra True Wireless
   - Peugeot Ion
   - Dacia Spring
-  - Mon avis sur le micro Action
-  - Kits de conversion 8bitdo
-  - Retex de mon installation photovoltaïque "OFF GRID" (déconnecté réseau)
+  - Mon installation photovoltaïque "OFF GRID" (déconnecté réseau)
 
 - LIVE :
   - x : On apprend le Japonais en Direct !
