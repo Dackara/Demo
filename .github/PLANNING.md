@@ -119,6 +119,7 @@
 - x : Flocage : presse chauffante et ploter de découpe
 - x : Test de "CarMaintenance"
 - x : 10 ans de restauration sur une 205 CTI ! (et c'est pas fini !!!)
+- x : Mettre a jour Windows 10 vers 11 sur un PC "non compatible"
 
 - #XX : Test & Review :
   - Sonde de temperature Sonoff (chambre)
